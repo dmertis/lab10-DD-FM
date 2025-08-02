@@ -1,3 +1,7 @@
+#https://github.com/dmertis/lab10-DD-FM
+#Partner 1: Demetri Delerme
+#Partner 2: Frank Maronas
+
 import math
 def square_root(a):
     b = math.sqrt(a)
