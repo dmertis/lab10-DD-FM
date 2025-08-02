@@ -1,3 +1,7 @@
+#https://github.com/dmertis/lab10-DD-FM
+#Partner 1: Demetri Delerme
+#Partner 2: Frank Maronas
+
 import unittest
 from calculator import *
 
